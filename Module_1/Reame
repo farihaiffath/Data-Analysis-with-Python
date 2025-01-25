@@ -1,0 +1,20 @@
+# Module Overview: Data Exploration and Python Libraries
+
+In this module, you will learn how to understand and explore data using Python. You will also learn how to utilize Python libraries to import and analyze data from multiple sources effectively.
+
+## Learning Objectives
+
+- **Accessing Databases:**  
+  Access databases using Python database APIs.
+
+- **Data Analysis:**  
+  Analyze datasets using Python to extract meaningful insights.
+
+- **Python Libraries:**  
+  Identify three key Python libraries and describe their applications.
+
+- **Data Import and Export:**  
+  - Read data using Python's Pandas package.  
+  - Demonstrate how to import and export data in Python.
+
+By the end of this module, you will have the skills to import, explore, and analyze data using Python's powerful tools and libraries, laying the groundwork for further data science tasks.
