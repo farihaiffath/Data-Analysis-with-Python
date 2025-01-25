@@ -1,0 +1,22 @@
+# Module Overview: Data Wrangling and Pre-Processing  
+
+In this module, you will learn how to perform fundamental data wrangling tasks that are essential for the pre-processing phase of data analysis. These tasks ensure the data is clean, consistent, and ready for analysis. You will explore techniques for handling missing values, formatting and standardizing data, normalizing values, grouping data into bins, and converting categorical variables into numerical formats.  
+
+## Learning Objectives  
+
+- **Handling Missing Values:**  
+  Describe and implement methods for identifying and handling missing values in datasets.  
+
+- **Data Formatting:**  
+  Learn techniques for formatting data to ensure consistency and standardization.  
+
+- **Normalization and Standardization:**  
+  Describe methods for normalizing and standardizing data to prepare it for analysis.  
+
+- **Binning:**  
+  Demonstrate how to group data into bins to simplify and categorize continuous variables.  
+
+- **Categorical Variables:**  
+  Demonstrate how to convert categorical variables into numerical quantitative variables for analysis.  
+
+By the end of this module, you will have the skills to clean and preprocess data efficiently, ensuring it is ready for further analysis and modeling.  
