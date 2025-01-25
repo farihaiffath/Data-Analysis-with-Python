@@ -1,0 +1,17 @@
+# Module Overview: Exploratory Data Analysis and Statistical Methods  
+
+In this module, you will learn the fundamentals of exploratory data analysis (EDA) and gain the skills needed to compute basic descriptive statistics. You will use statistical methods to understand data distributions, group data for better visualization, and analyze relationships between variables.  
+
+## Learning Objectives  
+
+- **Descriptive Statistics:**  
+  Implement computations to calculate measures such as mean, median, mode, and quartiles to summarize data distributions.  
+
+- **Data Grouping:**  
+  Demonstrate the basics of grouping data to enhance visualization and gain deeper insights.  
+
+- **Correlation Analysis:**  
+  - Use the Pearson correlation method to compare two continuous numerical variables and interpret the results.  
+  - Apply the Chi-square test to find and interpret associations between two categorical variables.  
+
+By the end of this module, you will have a solid foundation in performing exploratory data analysis and interpreting statistical measures to derive insights from data effectively.  
